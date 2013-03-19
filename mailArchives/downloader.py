@@ -1,6 +1,8 @@
-'''Solution by McJeff to a question on StackOverflow:
+'''
+Solution by McJeff to a question on StackOverflow:
 "How would I download files with Python using wget and save them locally?"
-http://stackoverflow.com/a/2467646/1285620'''
+http://stackoverflow.com/a/2467646/1285620
+'''
 
 import sys
 import threading

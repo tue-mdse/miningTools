@@ -1,9 +1,11 @@
-'''The simplest script I could find that
+'''
+The simplest script I could find that
 finds all links within a webpage.
 
 This is Listing 4.1 (Chapter 4) from
 "Python For Dummies" by Stef Maruch and Aahz Maruch,
-John Wiley & Sons, 2011'''
+John Wiley & Sons, 2011
+'''
 
 ###############################################
 # program: spider.py
